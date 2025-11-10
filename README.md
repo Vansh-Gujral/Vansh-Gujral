@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vansh Gujral</h1>
 <h3 align="center">A passionate Machine Learning Engineer from India</h3>
-<h4 align="center">Portfolio https://portfolio-six-rust-bra5ka8zg8.vercel.app/</h4>
+<h4 align="center">Portfolio: https://portfolio-six-rust-bra5ka8zg8.vercel.app/</h4>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vansh-gujral" alt="vansh-gujral" /></a> </p>
 
 - 🌱 I’m currently learning **Backend frameworks(Django,NodeJS)**
