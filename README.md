@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vansh Gujral</h1>
 <h3 align="center">A passionate Machine Learning Engineer from India</h3>
-<h4 align="center">Portfolio: https://vanshgujral.in//</h4>
+<h4 align="center">Portfolio: https://vanshgujral.in/</h4>
 
 - 🌱 I’m currently learning **Backend frameworks(Django,NodeJS)**
 
