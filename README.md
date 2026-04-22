@@ -1,26 +1,96 @@
-<h1 align="center">Hi 👋, I'm Vansh Gujral</h1>
-<h3 align="center">A passionate Machine Learning Engineer from India</h3>
-<h4 align="center">Portfolio: https://vanshgujral.in/</h4>
+<h1 align="center">Hey 👋, I'm Vansh Gujral</h1>
+<h3 align="center">🤖 AI Engineer & Developer | 📜 10+ Patents Filed | 🧠 Agentic AI & VLM Specialist</h3>
 
-- 🌱 I’m currently learning **Backend frameworks(Django,NodeJS)**
-
-- 👯 I’m looking to collaborate on **Machine Learning Projects**
-
-- 📫 How to reach me **vanshgujral175@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/boombaam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="boombaam" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vansh gujral" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vansh gujral" height="30" width="40" /></a>
-<a href="https://kaggle.com/vanshgujral" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vanshgujral" height="30" width="40" /></a>
-<a href="https://fb.com/vansh gujral" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vansh gujral" height="30" width="40" /></a>
-<a href="https://instagram.com/vansh_gujral__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vansh_gujral__" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/vansh-gujral" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vansh-gujral" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vanshgujral" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vanshgujral" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/vansh-gujral" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="vansh-gujral" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?lines=Architecting+Agentic+Systems;Building+Neuro-Symbolic+AI;10%2B+Patents+and+Counting;VLM+Research+%26+Backend+Scale&center=true&width=500&height=50" alt="Typing SVG" />
 </p>
-<br>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>  </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-<br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vansh-gujral&show_icons=true&locale=en&layout=compact" alt="vansh-gujral" /></p>
+
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vansh-gujral" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://vanshgujral.in" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+  <a href="mailto:vanshgujral@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🧑‍💻 About Me
+
+- 🎓 **BTech CSE (6th Sem)** | Maintaining a high-tier academic record (**CGPA 8.5+**).
+- 🧠 **Research Focus:** Bridging the gap between **Vision-Language Models (VLMs)** and **Neuro-Symbolic systems**.
+- 📜 **IP & Innovation:** Successfully drafted and filed **10+ patents** integrating IoT with advanced ML models.
+- ⚡ **Industrial Strength:** Certified in **UiPath (Advanced)**, **n8n (L1 & L2)**, and **Oracle** cloud infrastructure.
+- 🚀 **Status:** Currently preparing for my **AAT (7th/8th Sem Internship)** phase after a successful placement.
+
+---
+
+## 🛠️ Tech Stack
+
+### 🧠 AI & Model Optimization
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn" />
+  <img src="https://img.shields.io/badge/VL--JEPA-FF6F00?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neuro--Symbolic-8A2BE2?style=for-the-badge" />
+</p>
+
+### 🌐 Backend & Automation
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flask,docker,postgres,mysql,postman" />
+  <img src="https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white" />
+</p>
+
+### 🛠️ Infrastructure & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,vercel,nginx" />
+  <img src="https://img.shields.io/badge/FAISS-0052CC?style=for-the-badge&logo=facebook&logoColor=white" />
+  <img src="https://img.shields.io/badge/AES--256-Security-green?style=for-the-badge" />
+</p>
+
+---
+
+## 🚀 Key Projects
+
+- 🌌 **LatentFlow-JEPA** A research-driven dashboard demonstrating semantic prediction in latent space vs. traditional pixel-based processing.  
+  *(VLM, Streamlit, PyTorch)*
+
+- ✋ **PalmPay: Biometric Payments** An end-to-end contactless payment system using **ResNet** for feature extraction, **AES-256** for vector security, and **FAISS** for high-speed similarity search.
+
+- 🍎 **Fruit Brix Estimation** Computer Vision model trained on specialized datasets to predict sugar content (Brix) via visual analysis.  
+  *(MAE: 1.79, Keras/TensorFlow)*
+
+- 🏦 **LPU Bank (Internet Banking)** A stateless banking architecture implementing **JWT authentication** and **Razorpay** integration.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vanshgujral&show_icons=true&theme=tokyonight&border_radius=10" width="49.5%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshgujral&layout=compact&theme=tokyonight&border_radius=10" width="49.5%" />
+</p>
+
+---
+
+## 🎧 Fun Facts
+
+- 🧩 I see architecture in 4D: Scalability, Security, Statelessness, and Semantics.
+- 📜 Patent drafting is my version of creative writing.
+- ☕ Powered by Lo-Fi and optimized Python loops.
+
+---
+
+## 📬 Let’s Connect
+
+🌐 **Portfolio:** [vanshgujral.in](https://vanshgujral.in)  
+💼 **LinkedIn:** [linkedin.com/in/vansh-gujral](https://www.linkedin.com/in/vansh-gujral)  
+📝 **Medium:** Writing about Agentic AI and Patenting for Devs.
+
+---
+<p align="center">"Code is temporary; Architecture (and Patents) are forever."</p>
