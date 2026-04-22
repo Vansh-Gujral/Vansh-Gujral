@@ -69,11 +69,11 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vansh-Gujal&show_icons=true&theme=tokyonight&border_radius=10" width="49.5%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vansh-Gujal&layout=compact&theme=tokyonight&border_radius=10" width="49.5%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vansh-gujral&show_icons=true&theme=tokyonight&border_radius=10&include_all_commits=true" width="49.5%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vansh-gujral&layout=compact&theme=tokyonight&border_radius=10" width="49.5%" />
 </p>
 
 ---
