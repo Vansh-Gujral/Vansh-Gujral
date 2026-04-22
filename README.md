@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Vansh Gujral</h1>
-<h3 align="center">🤖 AI Engineer & Developer | 📜 10+ Patents Filed | 🧠 Agentic AI & VLM Specialist</h3>
+<h3 align="center">🤖 AI Engineer & Developer | 📜 15+ Patents Filed | 🧠 Agentic AI & VLM Specialist</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?lines=Architecting+Agentic+Systems;Building+Neuro-Symbolic+AI;10%2B+Patents+and+Counting;VLM+Research+%26+Backend+Scale&center=true&width=500&height=50" alt="Typing SVG" />
@@ -23,7 +23,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 **BTech CSE (6th Sem)** | Maintaining a high-tier academic record (**CGPA 8.5+**).
+- 🎓 **BTech CSE (6th Sem)** | Maintaining a high-tier academic record (**CGPA 8.59**).
 - 🧠 **Research Focus:** Bridging the gap between **Vision-Language Models (VLMs)** and **Neuro-Symbolic systems**.
 - 📜 **IP & Innovation:** Successfully drafted and filed **10+ patents** integrating IoT with advanced ML models.
 - ⚡ **Industrial Strength:** Certified in **UiPath (Advanced)**, **n8n (L1 & L2)**, and **Oracle** cloud infrastructure.
