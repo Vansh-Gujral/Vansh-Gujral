@@ -25,7 +25,7 @@
 
 - 🎓 **BTech CSE (6th Sem)** | Maintaining a high-tier academic record (**CGPA 8.59**).
 - 🧠 **Research Focus:** Bridging the gap between **Vision-Language Models (VLMs)** and **Neuro-Symbolic systems**.
-- 📜 **IP & Innovation:** Successfully drafted and filed **10+ patents** integrating IoT with advanced ML models.
+- 📜 **IP & Innovation:** Successfully drafted and filed **15+ patents** integrating IoT with advanced ML models.
 - ⚡ **Industrial Strength:** Certified in **UiPath (Advanced)**, **n8n (L1 & L2)**, and **Oracle** cloud infrastructure.
 - 🚀 **Status:** Currently preparing for my **AAT (7th/8th Sem Internship)** phase after a successful placement.
 
